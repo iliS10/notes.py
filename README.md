@@ -1,5 +1,5 @@
-# notes.py
-simple text editor (Notes) made with python (V1)
+# notes.py  (V1)
+simple text editor (Notes) made with python
 
 # Installation:
 
